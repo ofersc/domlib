@@ -4,7 +4,8 @@ lpTag.amd.define('src/dom-lib/Events', [], function() {
         'click',
         'dblclick',
         'keypress',
-        'keyup'
+        'keyup',
+        'mousemove'
     ];
 
     function _bindEvent(domEl, eventType, callback) {
