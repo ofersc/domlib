@@ -1,4 +1,4 @@
-lpTag.amd.define('src/dom-lib/Events', [], function() {
+amd.define('src/dom-lib/Events', [], function() {
 
     var supportedEvents = [
         'click',

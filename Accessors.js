@@ -1,4 +1,4 @@
-lpTag.amd.define('src/dom-lib/Accessors', [], function () {
+amd.define('src/dom-lib/Accessors', [], function () {
 
     var Accessors = {
 

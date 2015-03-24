@@ -1,4 +1,4 @@
-lpTag.amd.define('src/dom-lib/DomLib', [
+amd.define('src/dom-lib/DomLib', [
     'src/dom-lib/Events',
     'src/dom-lib/Accessors'
 ], function(Events, Accessors) {
